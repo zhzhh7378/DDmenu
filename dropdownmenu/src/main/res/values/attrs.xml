@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DropDownMenu">
+        <attr name="ddnenu_item_select_color" format="color"/>
+        <attr name="ddnenu_item_defaut_color" format="color"/>
+        <attr name="ddnenu_item_background" format="reference"/>
+    </declare-styleable>
+</resources>
