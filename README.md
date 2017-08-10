@@ -1,5 +1,5 @@
 # DDmenu
-[![](https://jitpack.io/v/zhzhh7378/DDmenu.svg)](https://jitpack.io/#zhzhh7378/DDmenu)
+[![DDmenu](https://jitpack.io/v/zhzhh7378/DDmenu.svg)](https://jitpack.io/#zhzhh7378/DDmenu)
 ## 1、功能描述
 
 > 如果觉得对你有用的话，点一下右上的星星赞一下吧!
