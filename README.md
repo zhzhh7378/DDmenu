@@ -13,3 +13,7 @@
 </p>
 
 ## 3、如何使用
+	dependencies {
+	        compile 'com.github.zhzhh7378:DDmenu:1.0'
+	}
+
