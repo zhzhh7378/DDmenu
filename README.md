@@ -5,13 +5,11 @@
 > 如果觉得对你有用的话，点一下右上的星星赞一下吧!
 
 ## 2、 效果 
+<div>
+  <img src="https://github.com/zhzhh7378/DDmenu/blob/master/device-2017-08-10-151737.png" width="50%" height="50%"/>
+  <img src="https://github.com/zhzhh7378/DDmenu/blob/master/device-2017-08-10-151808.png" width="50%" height="50%" />
+</div>
 
-<p align="center">
-  <img src="https://github.com/zhzhh7378/DDmenu/blob/master/device-2017-08-10-151737.png">
-</p>
-<p align="center">
-  <img src="https://github.com/zhzhh7378/DDmenu/blob/master/device-2017-08-10-151808.png">
-</p>
 
 ## 3、如何使用
 1.依赖设置：
